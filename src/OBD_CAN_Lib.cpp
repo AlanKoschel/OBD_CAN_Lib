@@ -1,5 +1,3 @@
-//Timmo ist der Beste!!!!
-
 #include <iostream>
 using namespace std;
 
