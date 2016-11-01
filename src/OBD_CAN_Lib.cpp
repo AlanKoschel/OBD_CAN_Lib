@@ -1,4 +1,3 @@
-//Alan Koschel
 #include <iostream>
 using namespace std;
 
